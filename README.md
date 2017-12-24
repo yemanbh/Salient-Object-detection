@@ -5,3 +5,7 @@ What Makes a Patch Distinct](https://www.cv-foundation.org/openaccess/content_cv
 ## Requirements
 - Matlab2015 and above
 - Matlab compiler(Vs compilers for mex files)
+
+## sample output
+
+![](Selection_023.png "sample output image")
